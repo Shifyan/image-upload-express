@@ -3,7 +3,6 @@ const multer = require('multer');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const fs = require('fs');
-const path = require("path");
 
 // Express
 const app = express();
